@@ -8,6 +8,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
+You will also have to run the JSON server by running:
+
+### `npm run server`
+
+in another CLI.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
