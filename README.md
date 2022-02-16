@@ -1,9 +1,7 @@
 # React Task Tracker
-# Introduction
 This app is used to record and track user-created tasks, which can be viewed later to plan out the day. This project is a frontend application made entirely using ReactJS, HTML, CSS and JSON server to store data. When the app is booted up, it fetches the last saved data on the JSON server using a `GET` request. Other tasks such as addition and deletion of tasks also involve sending `POST` and `DELETE` HTTP requests to the server as well.
 
-![intro](https://user-images.githubusercontent.com/64117930/154270270-695a4164-0a65-405f-b044-c2af15464a49.jpg)
-
+![intro](https://user-images.githubusercontent.com/64117930/154270989-ea19338f-9f9c-4b3d-91ff-373a0659292e.jpg)
 
 ## Adding a task
 To add a task, click on the button 'Add' and enter the task name, date and time, and if a reminder is required for the task. Tasks with reminders set as ON have a green indicator on the task card in the list.
