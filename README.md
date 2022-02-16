@@ -16,7 +16,7 @@ To delete a task, click on the X on the task card in the list.
 
 
 # JSON Server
-A JSON Server mimics a backend and handles `GET`, `POST` and `DELETE` requests.
+A JSON Server mimics a backend and handles `GET`, `POST` and `DELETE` requests. When starting up the app, run `npm run server` to start the JSON server. It currently starts up on port 5000, and the app starts on port 3000.
 
 ![json server](https://user-images.githubusercontent.com/64117930/154270244-2207693a-340a-4a1a-b786-ebe4c7c7fc92.jpg)
 
